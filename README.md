@@ -4,7 +4,7 @@
   <img src="assets/banner-en.svg" alt="A pixel-art black cat sneaks through a night market, steals a fish and runs off — Muhammed Yaşar Özkul, software developer" width="100%">
 </p>
 
-<h3 align="center">Hi, I'm Muhammed 👋 I make games and apps you can play right in your browser.</h3>
+<h3 align="center">Hi, I'm Muhammed 👋 I build games, websites and desktop apps.</h3>
 
 ---
 

@@ -4,7 +4,7 @@
   <img src="assets/banner-tr.svg" alt="Pixel bir kara kedi gece pazarında sinsice ilerliyor, balık kapıp kaçıyor — Muhammed Yaşar Özkul, yazılım geliştirici" width="100%">
 </p>
 
-<h3 align="center">Merhaba, ben Muhammed 👋 Doğrudan tarayıcıda oynanan oyunlar ve uygulamalar yapıyorum.</h3>
+<h3 align="center">Merhaba, ben Muhammed 👋 Oyunlar, web siteleri ve masaüstü uygulamaları geliştiriyorum.</h3>
 
 ---
 
