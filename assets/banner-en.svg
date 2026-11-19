@@ -24,7 +24,6 @@
 @keyframes unlem{0%{opacity:0}44%{opacity:1}56%{opacity:0}}
 .imlec{animation:imlec 1s steps(1) infinite}
 @keyframes imlec{0%{opacity:1}50%{opacity:0}}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}.agiz-balik,.unlem{opacity:0}}
 </style>
 <defs><linearGradient id="gok" x1="0" y1="0" x2="0" y2="1">
 <stop offset="0" stop-color="#11142b"/><stop offset="1" stop-color="#2b2350"/></linearGradient></defs>

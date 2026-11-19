@@ -148,7 +148,6 @@ def css():
 @keyframes unlem{{0%{{opacity:0}}44%{{opacity:1}}56%{{opacity:0}}}}
 .imlec{{animation:imlec 1s steps(1) infinite}}
 @keyframes imlec{{0%{{opacity:1}}50%{{opacity:0}}}}
-@media (prefers-reduced-motion:reduce){{*{{animation:none!important}}.agiz-balik,.unlem{{opacity:0}}}}
 """
 
 
