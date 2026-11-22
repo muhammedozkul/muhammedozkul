@@ -31,6 +31,7 @@
 | 🐈‍⬛ | **[Kaçak Kedi](https://github.com/muhammedozkul/kacak-kedi)** | Pixel stealth game: sneak past vendors and dogs, steal the fish. 6 levels, keyboard & touch. | [▶&nbsp;Play](https://muhammedozkul.github.io/kacak-kedi/) |
 | 🪐 | **[Solar System](https://github.com/muhammedozkul/solar-system-gunes-sistemi)** | Explorable 3D solar system with Three.js — real orbits, Halley's Comet, custom shaders. | [▶&nbsp;Open](https://muhammedozkul.github.io/solar-system-gunes-sistemi/) |
 | 🔭 | **[Gece Usturlabı](https://github.com/muhammedozkul/gece-usturlabi)** | Tonight's sky from any of Turkey's 81 provinces: stars, planets, Moon phase and Turkish folk star names. | [▶&nbsp;Open](https://muhammedozkul.github.io/gece-usturlabi/) |
+| 🌍 | **[Sarsıntı](https://github.com/muhammedozkul/sarsinti)** | Live earthquake dashboard for Turkey: map with active faults, "did it shake near me?", seismograph-paper view. | [▶&nbsp;Open](https://muhammedozkul.github.io/sarsinti/) |
 | 🚗 | **[Kaos Kent](https://github.com/muhammedozkul/kaos-kent)** | Top-down city chaos: drive, drift, run missions, escape the police. | [▶&nbsp;Play](https://muhammedozkul.github.io/kaos-kent/) |
 | 🎬 | **[Seyirlik](https://github.com/muhammedozkul/seyirlik)** | Movie & TV watchlist with ratings, episode tracking and a "what should I watch?" wheel. | [▶&nbsp;Open](https://muhammedozkul.github.io/seyirlik/) |
 | 🗺️ | **[Şehir Bul](https://github.com/muhammedozkul/sehir-bul)** | Find Turkey's provinces on the map. Vite + TypeScript. | [▶&nbsp;Play](https://muhammedozkul.github.io/sehir-bul/) |
@@ -52,7 +53,7 @@
 ### 🏆 Achievements unlocked
 
 - 🎮 **Game dev** — shipped 7 games
-- 🌍 **Live!** — 7 projects playable on GitHub Pages
+- 🌍 **Live!** — 8 projects playable on GitHub Pages
 - 🐈‍⬛ **Cat whisperer** — taught a black cat to steal fish
 - 🪐 **Pocket universe** — fit the whole solar system into a browser tab
 - 🐍 **Full circle** — made a snake game, now a snake eats my commits ↓

@@ -31,6 +31,7 @@
 | 🐈‍⬛ | **[Kaçak Kedi](https://github.com/muhammedozkul/kacak-kedi)** | Pixel gizlilik oyunu: satıcılara ve köpeklere yakalanmadan balığı kap. 6 bölüm, klavye ve dokunmatik. | [▶&nbsp;Oyna](https://muhammedozkul.github.io/kacak-kedi/) |
 | 🪐 | **[Güneş Sistemi](https://github.com/muhammedozkul/solar-system-gunes-sistemi)** | Three.js ile gezilebilir 3B güneş sistemi: gerçek yörüngeler, Halley Kuyruklu Yıldızı, özel shader'lar. | [▶&nbsp;Aç](https://muhammedozkul.github.io/solar-system-gunes-sistemi/) |
 | 🔭 | **[Gece Usturlabı](https://github.com/muhammedozkul/gece-usturlabi)** | 81 ilden o gecenin gökyüzü: yıldızlar, gezegenler, Ay evresi ve Türkçe halk yıldız adları. | [▶&nbsp;Aç](https://muhammedozkul.github.io/gece-usturlabi/) |
+| 🌍 | **[Sarsıntı](https://github.com/muhammedozkul/sarsinti)** | Türkiye için canlı deprem paneli: aktif faylı harita, "çevremde sallandı mı?", sismograf kâğıdı görünümü. | [▶&nbsp;Aç](https://muhammedozkul.github.io/sarsinti/) |
 | 🚗 | **[Kaos Kent](https://github.com/muhammedozkul/kaos-kent)** | Kuşbakışı şehir kaosu: sür, drift at, görev yap, polisten kaç. | [▶&nbsp;Oyna](https://muhammedozkul.github.io/kaos-kent/) |
 | 🎬 | **[Seyirlik](https://github.com/muhammedozkul/seyirlik)** | Puanlama, bölüm takibi ve "ne izlesem?" çarkı olan film ve dizi listesi. | [▶&nbsp;Aç](https://muhammedozkul.github.io/seyirlik/) |
 | 🗺️ | **[Şehir Bul](https://github.com/muhammedozkul/sehir-bul)** | Türkiye'nin illerini haritada bul. Vite + TypeScript. | [▶&nbsp;Oyna](https://muhammedozkul.github.io/sehir-bul/) |
@@ -52,7 +53,7 @@
 ### 🏆 Açılan başarımlar
 
 - 🎮 **Oyun geliştirici** — 7 oyun yayınladı
-- 🌍 **Canlıda!** — 7 proje GitHub Pages'te oynanabiliyor
+- 🌍 **Canlıda!** — 8 proje GitHub Pages'te oynanabiliyor
 - 🐈‍⬛ **Kedi fısıldayan** — kara kediye balık çalmayı öğretti
 - 🪐 **Cep evreni** — koca güneş sistemini bir tarayıcı sekmesine sığdırdı
 - 🐍 **Tam tur** — yılan oyunu yaptı, şimdi bir yılan onun commit'lerini yiyor ↓
